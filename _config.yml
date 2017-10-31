@@ -6,19 +6,17 @@
 
 # General Information
 user:
-  name: John Doe
-  title: Software Developer
-  email: anon@anon.com
-  twitter: lorem_ipsum
-  github:  lorem_ipsum
+  name: Cameron Ryde
+  title: Computer Scientist
+  email: cameronryde@gmail.com
+  twitter: Ryde__or__Die
+  github:  cameronryde
 
 # About you
 about:
-  title: About me
+  title: About Me
   description: >
-    Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-  
-  
+  I am a computer science major at Wentworth Institute of Technology with a minor in Computer Networking
   
 
 # Your projects
